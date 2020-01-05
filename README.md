@@ -3,7 +3,7 @@
 ## 连接入口
 - [交互式故事数据可视化与总结](https://voyzze.github.io/Interactive_Visual_final/)
 - [与18级合作-pythonanywhere]()
-- <a href=”##Dash”>Dash
+- [Dash](#Dash)
 - <a href=”##Flask”>Flask
 - <a href=”##研究前因”>研究前因
 - <a href=”##故事总结”>故事总结
