@@ -2,7 +2,7 @@
 
 ## 连接入口
 - [交互式故事数据可视化](https://voyzze.github.io/Interactive_Visual_final/)
-- [与18级合作-pythonanywhere]()
+- [与18级合作-pythonanywhere](http://lingpingtang0.pythonanywhere.com/)
 - [Dash](#Dash)
 - [Flask](#Flask)
 - [研究前因](#研究前因)
