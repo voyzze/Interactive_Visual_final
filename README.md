@@ -1,3 +1,14 @@
+# 交互式数据可视化-故事展示
+
+## 连接入口
+- [交互式故事数据可视化与总结](https://voyzze.github.io/Interactive_Visual_final/)
+- [与18级合作-pythonanywhere]()
+- <a href=”##Dash”>Dash
+- <a href=”##Flask”>Flask
+- <a href=”##研究前因”>研究前因
+- <a href=”##故事总结”>故事总结
+
+
 ## 研究前因
 随着经济水平和互联网迅猛传播的发展，越来越多的人改变其固有的金钱思维，开始向往起旅游的乐趣及享受异域文化。
 
