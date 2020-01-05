@@ -1,12 +1,12 @@
 # 交互式数据可视化-故事展示
 
 ## 连接入口
-- [交互式故事数据可视化与总结](https://voyzze.github.io/Interactive_Visual_final/)
+- [交互式故事数据可视化](https://voyzze.github.io/Interactive_Visual_final/)
 - [与18级合作-pythonanywhere]()
 - [Dash](#Dash)
-- <a href=”##Flask”>Flask
-- <a href=”##研究前因”>研究前因
-- <a href=”##故事总结”>故事总结
+- [Flask](#Flask)
+- [研究前因](#研究前因)
+- [故事总结](#故事总结)
 
 
 ## 研究前因
